@@ -3,5 +3,5 @@ mangum
 nltk
 numpy
 pydantic
-torch
+torch=2.0.0
 uvicorn
